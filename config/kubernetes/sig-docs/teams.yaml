@@ -299,6 +299,18 @@ teams:
     - MaxymVlasov
     - Potapy4
     privacy: closed
+  sig-docs-ro-owners:
+    description: Approvers for Romanian content
+    members:
+    - Cst2989
+    - andreipetcu
+    privacy: closed
+  sig-docs-ro-reviews:
+    description: PR reviews for Romanian content
+    members:
+    - Cst2989
+    - andreipetcu
+    privacy: closed
   website-admins:
     description: Admin access to the website repo
     previously:
